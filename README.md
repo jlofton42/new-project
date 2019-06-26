@@ -1,2 +1,2 @@
 # quill-purchmanager
-updates to purchasing manager - shinto/billto details &amp; product list rules
+updates to purchasing manager - ship-to/bill-to details &amp; product list rules
