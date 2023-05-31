@@ -1,2 +1,2 @@
-# quill-pmanager
-updates to purchasing manager - ship-to/bill-to details &amp; product list rules
+# attempt to get figma loading
+Using ajax to load figma prototype into browser... I don'y know what I was thinking as you can load a figma directly in the browser.
